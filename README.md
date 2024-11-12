@@ -13,5 +13,5 @@ Aplikasi ini adalah proyek sederhana untuk menghitung umur seseorang berdasarkan
 1. Clone repository ini ke komputer Anda:
 
    ```bash
-   git clone https://github.com/username/penghitung-umur.git
+   https://github.com/muhammadhidayat9/AplikasiPenghitungUmur
 Muhammad Hidayat 2210010354
