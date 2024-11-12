@@ -14,4 +14,6 @@ Aplikasi ini adalah proyek sederhana untuk menghitung umur seseorang berdasarkan
 
    ```bash
    https://github.com/muhammadhidayat9/AplikasiPenghitungUmur
-Muhammad Hidayat 2210010354
+   
+- Muhammad Hidayat 2210010354
+- Latihan 2 
